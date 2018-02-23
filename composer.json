@@ -1,0 +1,6 @@
+{
+  "name": "nisan/analyzer",
+  "require": {
+    "php": "^7.0"
+  }
+}
