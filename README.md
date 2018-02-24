@@ -28,6 +28,6 @@ Add following to your `composer.json`:
 ],
 ```
 
-Then run `composer require nisan/analyzer`
+Then run `composer require --dev nisan/analyzer`
 
 and use as `./vendor/bin/analyzer`
